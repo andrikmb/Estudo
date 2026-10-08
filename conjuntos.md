@@ -1,6 +1,23 @@
 # Conjuntos
 Os conjuntos podem ser entendidos como um agrupamento de itens semelhantes, separados de acordo com uma, ou mais caracteristicas.
 
+## Proposição ou Sentença
+
+Chama-se proposição ou sentença toda oração declarativa que pode ser clas
+sificada em verdadeira ou em falsa.
+Observamos que toda proposição apresenta três características obrigatórias:
+
+   -1ª) sendo oração, tem sujeito e predicado;
+   -2ª) é declarativa (não é exclamativa nem interrogativa);
+   -3ª) tem um, e somente um, dos dois valores lógicos: ou é verdadeira (V) ou é 
+falsa (F)
+
+:
+
+----
+> [!WARNING]
+> O conteúdo adiante é meramente ilustrativo das capacidades de renderização do GitHub.
+
 ccc
 
 $$ \[ \boxed{c_i = \sum_j A_{ij}} \] $$
